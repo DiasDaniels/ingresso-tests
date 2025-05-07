@@ -6,7 +6,7 @@ def calcular_valor_tickets(qtd, idades):
     
     valor = 0
     for idade in idades[:qtd]:
-        if idade < 0 or idade > 100:
+        if idade < 1 or idade > 100:
             raise ValueError("Idade inválida")
         if idade <= 12:
             valor += 10
