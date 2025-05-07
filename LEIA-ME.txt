@@ -1,0 +1,3 @@
+Olá, professora, espero que esteja se recuperando bem
+a biblioteca utilizada é o unittest, ela pertence à 
+biblioteca padrão do Python, então não precisa instalar nada, têm dois arquivos de teste, um retorna apenas o número de testes e o outro mostra uma tabela bonitinha. :)
